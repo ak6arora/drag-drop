@@ -1,13 +1,13 @@
 {
   "main.css": "/drag-drop/static/css/main.32fd4f7b.chunk.css",
-  "main.js": "/drag-drop/static/js/main.e284adb9.chunk.js",
-  "main.js.map": "/drag-drop/static/js/main.e284adb9.chunk.js.map",
+  "main.js": "/drag-drop/static/js/main.6d4040df.chunk.js",
+  "main.js.map": "/drag-drop/static/js/main.6d4040df.chunk.js.map",
   "runtime~main.js": "/drag-drop/static/js/runtime~main.95afec63.js",
   "runtime~main.js.map": "/drag-drop/static/js/runtime~main.95afec63.js.map",
-  "static/js/2.cf8ae30b.chunk.js": "/drag-drop/static/js/2.cf8ae30b.chunk.js",
-  "static/js/2.cf8ae30b.chunk.js.map": "/drag-drop/static/js/2.cf8ae30b.chunk.js.map",
+  "static/js/2.a2430946.chunk.js": "/drag-drop/static/js/2.a2430946.chunk.js",
+  "static/js/2.a2430946.chunk.js.map": "/drag-drop/static/js/2.a2430946.chunk.js.map",
   "index.html": "/drag-drop/index.html",
-  "precache-manifest.0d3277291dfd350b63022446a40cc67e.js": "/drag-drop/precache-manifest.0d3277291dfd350b63022446a40cc67e.js",
+  "precache-manifest.72013845020702b642f6047c4026121b.js": "/drag-drop/precache-manifest.72013845020702b642f6047c4026121b.js",
   "service-worker.js": "/drag-drop/service-worker.js",
   "static/css/main.32fd4f7b.chunk.css.map": "/drag-drop/static/css/main.32fd4f7b.chunk.css.map"
 }
