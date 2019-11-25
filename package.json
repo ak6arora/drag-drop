@@ -4,22 +4,27 @@
   "description": "auto-generated package for codesandbox import",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ak6arora.github.io/drag-drop",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "react": "16.8.4",
-    "react-dom": "16.8.4",
-    "react-scripts": "2.1.8",
-    "react-dnd": "9.4.0",
-    "react-dnd-html5-backend": "9.4.0",
     "babel-jest": "23.6.0",
     "faker": "^4.1.0",
+    "gh-pages": "^2.1.1",
     "immutability-helper": "^3.0.0",
-    "react-frame-component": "^4.1.0"
+    "react": "16.8.4",
+    "react-dnd": "9.4.0",
+    "react-dnd-html5-backend": "9.4.0",
+    "react-dnd-touch-backend": "^9.5.0",
+    "react-dom": "16.8.4",
+    "react-frame-component": "^4.1.0",
+    "react-scripts": "2.1.8"
   },
   "browserslist": [
     ">0.2%",
