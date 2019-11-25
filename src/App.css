@@ -1,12 +1,6 @@
-.App {
-  display: flex;
-  flex-wrap: wrap;
-  width: 300px;
-  padding: 5px;
-}
-span {
-  padding: 2px 5px;
-  display: inline-block;
-  border: 1px solid;
-  margin: 2px 5px 0 0;
+.container {
+display: flex;
+width: 250px;
+flex-wrap: wrap;
+padding: 10px;
 }
