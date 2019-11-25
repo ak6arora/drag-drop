@@ -1,0 +1,13 @@
+{
+  "main.css": "/drag-drop/static/css/main.32fd4f7b.chunk.css",
+  "main.js": "/drag-drop/static/js/main.d8a3747d.chunk.js",
+  "main.js.map": "/drag-drop/static/js/main.d8a3747d.chunk.js.map",
+  "runtime~main.js": "/drag-drop/static/js/runtime~main.95afec63.js",
+  "runtime~main.js.map": "/drag-drop/static/js/runtime~main.95afec63.js.map",
+  "static/js/2.d21bff77.chunk.js": "/drag-drop/static/js/2.d21bff77.chunk.js",
+  "static/js/2.d21bff77.chunk.js.map": "/drag-drop/static/js/2.d21bff77.chunk.js.map",
+  "index.html": "/drag-drop/index.html",
+  "precache-manifest.6ed8e098bd2b6e850c414331729b36dd.js": "/drag-drop/precache-manifest.6ed8e098bd2b6e850c414331729b36dd.js",
+  "service-worker.js": "/drag-drop/service-worker.js",
+  "static/css/main.32fd4f7b.chunk.css.map": "/drag-drop/static/css/main.32fd4f7b.chunk.css.map"
+}
