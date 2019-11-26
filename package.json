@@ -24,7 +24,8 @@
     "react-dnd-touch-backend": "^9.5.0",
     "react-dom": "16.8.4",
     "react-frame-component": "^4.1.0",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "prop-types": "^15.6.1"
   },
   "browserslist": [
     ">0.2%",
