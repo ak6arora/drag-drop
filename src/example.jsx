@@ -1,7 +1,7 @@
 import React, { useState, useCallback } from 'react'
 import Card from './Card'
 import update from 'immutability-helper'
-import  "./app.css";
+import  "./App.css";
 const Container = () => {
   {
     const [cards, setCards] = useState([
